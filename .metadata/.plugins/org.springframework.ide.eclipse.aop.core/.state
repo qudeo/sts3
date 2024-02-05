@@ -2,5 +2,6 @@
 <aop-reference-model>
 <aop-project name="spring-song"/>
 <aop-project name="spring-jsp01"/>
+<aop-project name="spring-jsp02"/>
 <aop-project name="spring-first"/>
 </aop-reference-model>
