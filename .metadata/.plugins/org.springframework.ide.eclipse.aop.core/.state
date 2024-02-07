@@ -4,4 +4,5 @@
 <aop-project name="spring-jsp01"/>
 <aop-project name="spring-jsp02"/>
 <aop-project name="spring-first"/>
+<aop-project name="movieinfo"/>
 </aop-reference-model>
